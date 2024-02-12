@@ -1,3 +1,4 @@
+# I developed a quantum circuit simulator in Python using Qiskit, featuring gate application and state vector visualization.
 from qiskit import QuantumCircuit, transpile, assemble, Aer, execute
 from qiskit.visualization import plot_histogram, plot_bloch_multivector
 
